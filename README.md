@@ -5,7 +5,7 @@
    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!!;I+am+C.V.Anish.;Welcome+to+my+Github.;Code+is+like+humour!!;It's+bad,+when+you+explain+it+🤣;)]()
 </h2>
 
-- I'm <b>C.V.Anish</b>,currently pursuing my bachelor's degree at **<a href="https://www.iiit-bh.ac.in/">IIIT Bhubaneswar</a>**.An **aspiring full-stack developer**, I am currently perfecting my **JavaScript and Django skills**,while also working on full-stack projects and meanwhile,strengthening my **DSA sakiis**.
+- I'm <b>C.V.Anish</b>,currently pursuing my bachelor's degree at **<a href="https://www.iiit-bh.ac.in/">IIIT Bhubaneswar</a>**.An **aspiring full-stack developer**, I am currently perfecting my **JavaScript and Django skills**,while also working on full-stack projects and meanwhile,strengthening my **DSA skills**.
 
 
 <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47pxhoi4bdycwe8ukiqhc8v9zbghmxz2ue5f1zz0bf&rid=giphy.gif&ct=g" alt="Coder GIF" width="500" align="left">
@@ -28,6 +28,8 @@
   <br>
   <img alt="React" src="https://img.shields.io/badge/React-319795?style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-593D88?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-800080?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-f0f8ff?style=for-the-badge&logo=jQuery&logoColor=white"/>
 </div>
   
 <h3 align="center">Languages :</h3>
